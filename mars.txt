@@ -2,3 +2,5 @@ cold and dry, but everything is my favourite color
 Changes put in from a second person to collaborate. Can you see this?
 yes i did.
 Making a conflicted change on itschner computer. Did not pull down first
+now we are trying to get a conflict.
+Conflict resolved
